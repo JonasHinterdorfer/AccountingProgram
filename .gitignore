@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+
+# Ignore Secrets.cs and appsettings.json anywhere in the repository
+**/Secrets.cs
+**/appsettings.json

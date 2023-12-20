@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI", "CLI\CLI.csproj", "{DA824728-DFDC-4B66-93DA-21513D1CA58D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{EE22B3FC-288D-4353-B4E7-BB48BE7AC059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA824728-DFDC-4B66-93DA-21513D1CA58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA824728-DFDC-4B66-93DA-21513D1CA58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA824728-DFDC-4B66-93DA-21513D1CA58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA824728-DFDC-4B66-93DA-21513D1CA58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE22B3FC-288D-4353-B4E7-BB48BE7AC059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE22B3FC-288D-4353-B4E7-BB48BE7AC059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE22B3FC-288D-4353-B4E7-BB48BE7AC059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE22B3FC-288D-4353-B4E7-BB48BE7AC059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
